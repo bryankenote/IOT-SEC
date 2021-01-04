@@ -1,0 +1,22 @@
+.config {
+    padding: 56px 20px;
+    min-height: 100%;
+    width: 100%;
+}
+
+.indent {
+    padding-left: 10px;
+}
+
+.setting {
+    margin-top: 10px;
+}
+
+.arrayItem:not(:first-of-type) {
+    margin-top: 25px;
+}
+
+.settingEditor {
+    width: 90vw;
+    height: 90vh;
+}
